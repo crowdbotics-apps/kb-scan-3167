@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT kb_scan_3167.wsgi:application

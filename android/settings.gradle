@@ -1,0 +1,3 @@
+rootProject.name = 'kb_scan_3167'
+
+include ':app'
